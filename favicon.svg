@@ -1,0 +1,29 @@
+<svg width="4000" height="4000" viewBox="0 0 4000 4000" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <circle cx="2000" cy="2000" r="1050"
+          stroke="#D4B483"
+          stroke-width="120"/>
+
+  <path d="M1300 2450C1360 1850 1780 1450 2000 1450C2220 1450 2640 1850 2700 2450H1300Z"
+        fill="#D4B483"/>
+
+  <circle cx="2000" cy="1320" r="95"
+          fill="#D4B483"/>
+
+  <rect x="1180" y="2450"
+        width="1640"
+        height="110"
+        rx="55"
+        fill="#D4B483"/>
+
+  <path d="M1760 980C1560 730 1810 520 1710 260"
+        stroke="#D4B483"
+        stroke-width="80"
+        stroke-linecap="round"/>
+
+  <path d="M2240 980C2040 730 2290 520 2190 260"
+        stroke="#D4B483"
+        stroke-width="80"
+        stroke-linecap="round"/>
+
+</svg>
